@@ -15,3 +15,8 @@ This game is posted in hopes of community collaboration.  Feel Free to add your 
 4) No repeats.  If a room that is similar to what you create is already here, think of another one.  Each room must be unique and distinct from one another.  The Player will traverse from one bizarre adventure to another
 
 5) Have fun with it.  I believe together, the community can build an awesome game that all can enjoy.
+
+
+Current Games in Python-Games:
+
+Explorer: Journey to the Golden Abyss
